@@ -12,5 +12,5 @@ This lecture-workshop introduces participants to the use of voice in machine lea
 [1] Sterne, J., 2019. ‟Ballad of the dork-o-phone: Towards a crip vocal technoscience”. Journal of Interdisciplinary Voice Studies, 4(2), pp.179-189.
 
 
-
+## Instructions
 
