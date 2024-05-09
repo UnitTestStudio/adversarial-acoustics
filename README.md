@@ -2,7 +2,7 @@
 
 This repository contains notebooks and utility scripts for a lecture-workshop. Held at: [AI Anarchies School](https://aianarchies.net/school), [Art Meets Radical Openness](https://art-meets.radical-openness.org/2024/)
 
-<img src="https://github.com/UnitTestStudio/adversarial-acoustics/blob/main/Not%20I-Still009.png" width="400" height="400">
+<img src="https://github.com/UnitTestStudio/adversarial-acoustics/blob/main/Not%20I-Still009.png" width="3840" height="2160"> 
 
 
 > ‟I call my vocal condition experimental: every day, every encounter is an experiment where my voice, once a constant in my self-conception, is now a variable.” [1]
